@@ -1,4 +1,5 @@
-# Assignment_14_Decision_Tree
+# Assignment_14_Random_Forest
+
 
 **************************************** 1st) Company data **********************************************************
 About the data: 
