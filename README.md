@@ -1,6 +1,6 @@
 # Assignment_14_Decision_Tree
 
-****************************************1st) Company data**********************************************************
+**************************************** 1st) Company data **********************************************************
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 The attributes are as follows: 
@@ -37,7 +37,7 @@ Approach - A decision tree can be built with target variable Sale (we will first
 
 
 
-*************************************2nd) Fraud data*********************************************
+************************************* 2nd) Fraud data *********************************************
 
 
 Use decision trees to prepare a model on fraud data 
